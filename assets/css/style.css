@@ -6,12 +6,13 @@
 	padding-top: 20px;*/
 }	
 
-#quiz {
-	/*visibility: hidden;*/
+#quiz,
+#done {
+	visibility: hidden;
 }
 
 #results {
-	/*visibility: hidden;*/
+	visibility: hidden;
 }
 
 
